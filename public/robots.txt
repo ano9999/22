@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://reel-riot.vercel.app
+
+# Sitemaps
+Sitemap: https://reel-riot.vercel.app/sitemap.xml
